@@ -53,8 +53,7 @@ Key Features:
    - Insights on time management patterns and suggestions for improvement.
 
 Technologies/Tools Involved:
-
-- C PROGRAMMING
+- React JS
 - API Integration: Integration with task management tools via their APIs (e.g., Todoist, Trello, or Google Tasks).
 - Analytics: D3.js or Chart.js for generating visual analytics and reports.
 - Notifications: Chrome Notifications API for reminders and alerts.
